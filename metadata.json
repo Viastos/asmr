@@ -1,0 +1,6 @@
+{
+  "name": "atomfurki & Hamamböceği İstilası",
+  "description": "Ortada atomfurki yazısı, beyaz arka planda koşturan gerçekçi hamamböcekleri, terlik ve Raid ikonlu kontroller ve arka plan müziği.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
